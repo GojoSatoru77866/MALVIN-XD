@@ -104,7 +104,7 @@ FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
 FAKE_TYPING: process.env.FAKE_TYPING || "false",
 // make it true for fake typing
 
-READ_CMD: process.env.READ_CMD || "false",
+READ_CMD: process.env.READ_CMD || "true",
 // true if want mark commands as read 
 
 DEV: process.env.DEV || "967778668253",
