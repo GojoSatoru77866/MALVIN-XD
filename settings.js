@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~094GXbLJ#DogjuqzltScXtNfrv3n5Ce_VxnVASNYeA2uCAVTNAiI",
+SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~59oF1TgS#iPFd6-PBdeyPAz_GTHi3NfZFFlrF8qF2foIzy7gE9R4",
 // add your Session Id 
 
 PREFIX: process.env.PREFIX || ".",
@@ -26,7 +26,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "967778668253",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "778668253",
 // add your bot owner number
 
 OWNER_NAME: process.env.OWNER_NAME || "✦ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ🪀✦",
@@ -107,7 +107,7 @@ FAKE_TYPING: process.env.FAKE_TYPING || "false",
 READ_CMD: process.env.READ_CMD || "true",
 // true if want mark commands as read 
 
-DEV: process.env.DEV || "967778668253",
+DEV: process.env.DEV || "778668253",
 //replace with your whatsapp number       
  
 ANTI_VV: process.env.ANTI_VV || "true",
