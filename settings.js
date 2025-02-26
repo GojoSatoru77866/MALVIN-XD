@@ -20,7 +20,7 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 STICKER_NAME: process.env.STICKER_NAME || "MALVIN-XD",
 // type sticker pack name  
 
-CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍,😄,😁,🥳,⚜️,💫",
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍,😄,😁,🥳,⚜️,💫,💭,👀",
 // chose custom react emojis by yourself 
 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
@@ -56,13 +56,13 @@ ANTI_BAD: process.env.ANTI_BAD || "false",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto react on status (still testing)
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*استوري جميل لقد شاهدته👀*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "استوري جميل لقد شاهدته👀",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "public",
